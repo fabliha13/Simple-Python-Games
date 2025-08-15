@@ -1,3 +1,4 @@
+Python Mini-Games for Learning: Turtle and Tkinter
 This repository contains two Python-based mini-games designed to introduce students to game development concepts using the Turtle and Tkinter libraries. These projects were created to make learning Python engaging by turning core programming concepts into interactive, hands-on projects. Each game demonstrates distinct aspects of Python programming, from graphics rendering to event handling and UI design.
 Games Included
 1. Colorful Pong Clash (Turtle)
@@ -20,7 +21,7 @@ Turtle and Tkinter (both included with standard Python installations)
 
 Running the Games
 
-Clone this repository: git clone https://github.com/fabliha13/Simple-Python-Games
+Clone this repository:git clone https://github.com/fabliha13/Simple-Python-Games
 cd Simple-Python-Games
 
 
@@ -42,4 +43,4 @@ Feedback, suggestions, or contributions are welcome! Feel free to open an issue 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or collaboration ideas, connect with me on linkedin.com/fabliha-afaf-sarwar or open an issue in this repository.
+For questions or collaboration ideas, connect with me on LinkedIn or open an issue in this repository.
