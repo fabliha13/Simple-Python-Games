@@ -1,5 +1,3 @@
-# Colorful Pong with Dynamic Ball Bounce
-# Original by DimaGutierrez | Updated by ChatGPT
 
 import turtle
 import os
@@ -129,3 +127,4 @@ while True:
         ball.dx *= -1
         offset = ball.ycor() - paddle_b.ycor()
         ball.dy = offset * 0.1
+
